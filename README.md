@@ -5,7 +5,7 @@ Este repositório contém o **RLRobot**, um agente ad hoc treinado com **Proxima
 > **Coordenação Ad hoc em Enxames de Robôs para o Problema do Alvo Comum: Uma Abordagem baseada em Aprendizado por Reforço para Redução de Conflitos**
 > João Pedro Santiago de Jesus — UFRB, 2026. Orientadora: Profª. Drª. Camila Bezerra da Silva.
 
-O RLRobot substitui a heurística **Ad Hoc Follower (AHF)** da tese de [Passos (2023)](https://research.lancaster-university.uk/en/publications/congestion-control-of-robotic-swarms-in-the-common-target-problem/)). Em vez de regras fixas, uma rede neural escolhe, a partir da leitura local dos sensores, qual comportamento de navegação executar.
+O RLRobot substitui a heurística **Ad Hoc Follower (AHF)** da tese de [Passos (2023)](https://research.lancaster-university.uk/en/publications/congestion-control-of-robotic-swarms-in-the-common-target-problem/). Em vez de regras fixas, uma rede neural escolhe, a partir da leitura local dos sensores, qual comportamento de navegação executar.
 
 ---
 
